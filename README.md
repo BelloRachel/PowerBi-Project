@@ -1,4 +1,4 @@
-This is all the write up
+
 
 # Mavin Toy Store Business Analysis
 
